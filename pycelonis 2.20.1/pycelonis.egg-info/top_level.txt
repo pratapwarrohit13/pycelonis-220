@@ -1,5 +1,0 @@
-ems
-pql
-pycelonis
-service
-utils
