@@ -1240,6 +1240,3 @@ python -c "import pycelonis; print('Installation verified')"
 **🎉 Installation Complete!**
 
 This offline installation guide provides everything an LLM agent needs to understand, install, and use PyCelonis in completely offline environments. The package includes all dependencies, documentation, examples, and testing tools required for autonomous operation.
-
-For questions or issues, refer to the troubleshooting section or run the validation scripts included in this package.</content>
-<parameter name="filePath">c:\Users\Sneha\Documents\Rohit Pratapwar\pycelonis 220\pycelonis_latest\OFFLINE_INSTALLATION_GUIDE.md
