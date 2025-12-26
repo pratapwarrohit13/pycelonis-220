@@ -646,5 +646,3 @@ For modifications and extensions:
 - Added support for advanced authentication methods
 - Updated dependencies for better compatibility
 
-*This documentation covers the base PyCelonis functionality. For LLM-specific modifications, refer to the custom implementation details provided by your development team.*</content>
-<parameter name="filePath">c:\Users\Sneha\Documents\Rohit Pratapwar\pycelonis 220\DOCUMENTATION.md
